@@ -1,0 +1,4 @@
+[submodule "product_image_url"]
+	path = product_image_url
+	url = git@github.com:enovasi/product_image_url.git
+	branch = master
